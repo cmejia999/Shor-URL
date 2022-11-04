@@ -13,7 +13,7 @@ django-heroku==0.3.1
 django-on-heroku==1.1.2
 djangorestframework==3.11.0
 filelock==3.8.0
-fuse-python==1.0.2
+fuse-python==1.0.0
 gpg===1.14.0-unknown
 gunicorn==20.1.0
 httplib2==0.18.1
